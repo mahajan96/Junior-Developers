@@ -28,6 +28,10 @@
     color: #61dafb;
 }
 
+body {
+    margin: 0 40px;
+}
+
 .job {
     width: 80%;
     margin: 0 auto;
