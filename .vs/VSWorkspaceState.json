@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\API",
+    "\\api",
     "\\client",
     "\\client\\src",
+    "\\worker",
     "\\worker\\tasks"
   ],
-  "SelectedNode": "\\client\\src\\App.js",
+  "SelectedNode": "\\client\\src\\jobModal.js",
   "PreviewInSolutionExplorer": false
 }

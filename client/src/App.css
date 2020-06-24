@@ -40,6 +40,16 @@ body {
     margin: 20px 0;
     padding: 20px 10px;
     align-items: center;
+    text-align: left;
+}
+
+.job:hover {
+    cursor: pointer;
+    color: #6666;
+}
+.deatil-logo {
+    height: 30px;
+    float: right;
 }
 
 @keyframes App-logo-spin {
